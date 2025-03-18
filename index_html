@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lag="English">
+
+<head>
+    <meta encording="utf-16">
+    <title>
+        First page
+    </title>
+</head>
+
+<body bgcolor="pink">
+    <p>
+        <b>Bold text.</b>,<br>
+        <strong>Important</strong>
+    </p>
+    <center>
+        <h1>
+            <font color="yellow" size="20">
+                CATS
+            </font>
+        </h1>
+    </center>
+
+    This page is abour cats...
+    <h2>
+        <font color="purple" size="17">
+            About
+        </font>
+    </h2>
+    <p>
+        <!-- -->
+        Lorem ipsum odor amet, consectetuer adipiscing elit. Ut mattis ut cubilia suspendisse aenean magna pharetra
+        libero. Platea libero volutpat in magnis odio ante himenaeos vel. Interdum vehicula congue lobortis taciti,
+        fames ut tellus sem habitant. Gravida blandit primis facilisis massa parturient quam. Placerat quis faucibus
+        sociosqu mattis himenaeos nec. Non curae vulputate ultrices odio nisi consequat felis sit accumsan. Netus
+        lobortis natoque imperdiet dis massa etiam <b><em><u>scelerisque</u></em></b> quisque. Commodo risus iaculis purus arcu mattis dui?
+
+        Laoreet rhoncus tristique nulla magnis maecenas; facilisi himenaeos. Eget taciti lobortis praesent eros feugiat
+        nostra. Eleifend metus class rhoncus lacus, etiam quis lacinia est. Mi non augue sit rutrum lobortis. Facilisi
+        gravida <sup>ac</sup>mi mi ridiculus porttitor. Ex nibh litora ,<sub>et</sub> suspendisse fringilla litora. Porttitor nam primis odio
+        imperdiet dolor elit phasellus gravida. Inceptos consequat hendrerit mollis cras molestie. Fermentum purus
+        montes euismod vel proin nec iaculis integer.
+
+
+
+    </p>
+    fun fact: the lenghth of the female cat is &gt; or maybe &lt; that of the male.
+    How to write &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    and??
+    &amp;
+    <hr>
+
+    <br>
+    <center>
+
+        <img width="300" alt="This is an image of the cat."
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpRmBaycHJqvr-QNpUmo34faJiaAFm-EqUdQ&s">
+        <br>
+        &copy; encrypted-tbn0.gstatic.com
+        <br>
+        <img src="0EB3C8C0C310576DB910968D1F7C280FB3007D0B.jpeg" alt="This is a cute cat" width="300">
+    </center>
+    <h1> About the web </h1>
+    <h1> Some abbreviations </h1>
+    <abbr title="World wide web">www</abbr> was created long time ago
+
+
+    <br>
+    <abbr title="Light amlification by situation"> Lazer</abbr>
+    <br>
+    <pre>
+            The          distance between sun and 
+                        millions of miles
+        </pre>
+
+</body>
+
+</html>
