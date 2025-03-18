@@ -1,2 +1,19 @@
-<html>
-<hshshhsh>
+.main {
+    display: inline;
+    color: red;
+}
+
+body {
+    background: blanchedalmond;
+    background-image: url("https://assets.bonappetit.com/photos/5a8d9c058ca2430893f4e3c1/16:9/w_2560%2Cc_limit/life_on_the_line_1.jpg");
+}
+h1{
+    font-size: xx-large;
+    color: red;
+}
+a{
+    padding-left: 7px;
+    padding-right: 1px;
+    background-color: aqua;
+    text-decoration: none;
+}
